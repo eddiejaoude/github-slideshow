@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Making a change on the live stream
 Use the left arrow to go back!
